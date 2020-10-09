@@ -1,0 +1,9 @@
+Dear SIF Club,
+
+     I would love the opportunity to join on the quantitative team
+
+    What trading infrastructure / apis are used to trade and at what volume/frequency of trades are used
+    no intraday trades
+
+    quandl for data
+    
